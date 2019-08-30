@@ -26,3 +26,7 @@ FRP部分
 捐款
 -----
 如果这个程序能帮到你，你可以通过以下方式捐赠我<br>
+##微信
+![](https://github.com/Blocks233/Message/raw/master/捐款/wechat.png)
+##支付宝
+![](https://github.com/Blocks233/Message/raw/master/捐款/alipay.jpg)
